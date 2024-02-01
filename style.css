@@ -1,0 +1,65 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.BNR {
+    background-image: url(../images/bannerabout.jpg);
+    width: 100%;
+    padding-right: 0!important;
+    padding-left: 0!important;
+    margin-right: auto;
+    margin-left: auto;
+    background-size: cover;
+    padding: 15px;
+    margin-top: 100px;
+    
+}
+
+.MM {
+    font-family: prague;
+    color: #fff;
+    font-size: 60px;
+}
+
+.btn {
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+.banner {
+    background-image: url(../images/bannerabout.jpg);
+    width: 100%;
+    padding-right: 0!important;
+    padding-left: 0!important;
+    margin-right: auto;
+    margin-left: auto;
+    background-size: cover;
+    
+}
+.BNRr{
+	background-image: url(../images/outletbanner.png);
+    width: 100%;
+  
+    margin-right: auto;
+    margin-left: auto;
+    background-size: cover;
+    padding: 90px;
+    margin-top: 43px;
+}
+
+.brands-logos{
+    padding: 5%;
+}
+.mc{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-align: justify;
+}
+.mf{
+	font-family: Montserrat,sans-serif;
+    padding: 0;
+    margin: 0;
+    background: #000;
+}
